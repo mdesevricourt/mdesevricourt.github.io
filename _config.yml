@@ -30,7 +30,7 @@ author:
   location         : "Washington, DC"
   employer         : "Georgetown University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : # 
 
   # Academic websites
   academia         : # URL
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/maximedesevricourt/"
+  linkedin         : "maximedesevricourt/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
