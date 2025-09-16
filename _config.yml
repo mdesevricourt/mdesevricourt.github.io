@@ -13,10 +13,10 @@ title                    : "Maxime Cugnon de Sévricourt"
 title_separator          : "-"
 name                     : &name "Maxime Cugnon de Sévricourt"
 description              : &description "Maxime Cugnon de Sévricourt's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://mdesevricourt.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "mdesevricourt/mdesevricourt.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Maxime Cugnon de Sévricourt"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Candidate in Economics at Georgetown University."
   location         : "Washington, DC"
   employer         : "Georgetown University"
   uri              : # URL
